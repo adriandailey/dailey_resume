@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Brandon Dailey's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Brandon Dailey
+Senior with a major in Accounting and a minor in Data Science
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -14,16 +14,13 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 
 ## Education
-
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Minor: Data Science 
+- Certificate of Effective Communication 
+- Student Accounting Society Member
+
 
 
 ## Related Experience
@@ -70,14 +67,19 @@ __Pinnacle Management Group__,
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
+## Volunteer Experience
+__New Student Mentor__, 
+- Oversaw the orientation of new Freshmen 
+- Planned activities to help freshmen get accustomed to school environment
+- Reported to lead coordinator plans and instructions carried out
 
-`2025-2027`
-__Math Tutor__, LDSBC
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+`Nov 2016 -Nov 2018`
+__Full-time Missionary__, Dominican Republic Nov 2016 -Nov 2018
+- Adapted to different culture and connected with local people while serving 70-80 hours per week
+- Obtained conversational fluency in written and spoken Spanish within 3 months
+- Devised lesson plans and strategies to help hundreds of people set and reach their personal goals
+- Organized and taught weekly training meetings for other full-time volunteers to promote efficiency within the group
 
 
 
